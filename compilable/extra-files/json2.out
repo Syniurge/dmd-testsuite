@@ -8,6 +8,7 @@
         "importPaths": [
             "compilable",
             "../../druntime/import",
+            "../../../runtime/calypso",
             "../../phobos"
         ],
         "libName": "VALUE_REMOVED_FOR_TEST",
